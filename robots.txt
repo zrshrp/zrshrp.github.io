@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /404.html
+Disallow: /search/
+Disallow: /feed.xml
+
+Host: technews2.pp.ua
+Sitemap: http://technews2.pp.ua/sitemap.xml

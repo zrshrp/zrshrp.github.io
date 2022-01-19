@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechNews2 - Новое в науке и технике</title>
+    <description>Новое в науке и технике, изобретения и научные открытия в области робототехники, электроники, нанотехнологий, медицины, физики, энергетики и космоса.
+</description>
+    <link>http://technews2.pp.ua/</link>
+    <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 Jan 2022 15:10:29 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Jan 2022 15:10:29 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Zero - одноместный тейлситтер от Zeva</title>
+        <description>Cтартап Zeva начал летные испытания одноместного тейлситтера, обладающего необычным внешним видом.</description>
+        <pubDate>Tue, 18 Jan 2022 14:17:04 +0200</pubDate>
+        <link>http://technews2.pp.ua/zeva-zero-flight-test/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/zeva-zero-flight-test/</guid>
+        
+        <category>летательный аппарат</category>
+        
+        <category>мультикоптер</category>
+        
+        
+        <category>energy</category>
+        
+      </item>
+    
+      <item>
+        <title>UltraRAM сможет работать быстро долгое время</title>
+        <description>Британские инженеры сообщили об успехе в создании долговечной и быстрой компьютерной памяти.</description>
+        <pubDate>Tue, 18 Jan 2022 14:12:33 +0200</pubDate>
+        <link>http://technews2.pp.ua/ultraram-1000y/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/ultraram-1000y/</guid>
+        
+        <category>память</category>
+        
+        <category>компьютер</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Механическую руку научили работать пинцетом</title>
+        <description>Южнокорейские робототехники обучили автоматизированную механическую руку высокоточной работе с маленькими предметами.</description>
+        <pubDate>Tue, 18 Jan 2022 13:40:24 +0200</pubDate>
+        <link>http://technews2.pp.ua/ilda-objects-handling/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/ilda-objects-handling/</guid>
+        
+        <category>манипулятор</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Грибной белок заменит куриные яйца</title>
+        <description>Финские ученые генетически изменили геном гриба, заставив его производить овальбумин - важный компонент яичного белка.</description>
+        <pubDate>Tue, 18 Jan 2022 13:35:16 +0200</pubDate>
+        <link>http://technews2.pp.ua/fungi-eggs/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/fungi-eggs/</guid>
+        
+        <category>еда</category>
+        
+        <category>белок</category>
+        
+        <category>экология</category>
+        
+        <category>геном</category>
+        
+        
+        <category>energy</category>
+        
+      </item>
+    
+      <item>
+        <title>C наступающим Новым годом 2022!</title>
+        <description>TechNews2 поздравляет читателей с наступающим Новым годом!</description>
+        <pubDate>Fri, 31 Dec 2021 18:54:13 +0200</pubDate>
+        <link>http://technews2.pp.ua/new-year-2022/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/new-year-2022/</guid>
+        
+        <category>салют</category>
+        
+        <category>поздравления</category>
+        
+        
+        <category>fun</category>
+        
+      </item>
+    
+      <item>
+        <title>Робот-пылесос уберет снег вместо вас</title>
+        <description>Китайцы создали автономного гусеничного робота, предназначенного для уборки снега на парковках.</description>
+        <pubDate>Fri, 31 Dec 2021 18:47:16 +0200</pubDate>
+        <link>http://technews2.pp.ua/snowbot-s1/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/snowbot-s1/</guid>
+        
+        <category>робот</category>
+        
+        <category>снег</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Японцы собрали дисплей с переменным вкусом</title>
+        <description>Японский инженер собрал специальный дисплей, позволяющий почувствовать вкус отображаемых на нём блюд.</description>
+        <pubDate>Fri, 31 Dec 2021 18:42:57 +0200</pubDate>
+        <link>http://technews2.pp.ua/lickable-display/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/lickable-display/</guid>
+        
+        <category>дисплей</category>
+        
+        <category>вкус</category>
+        
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Полупроводник соеденили со сверхпроводником в кристалле</title>
+        <description>Международная группа ученых смогла создать рабочее соединение полупроводника со сверхпроводником.</description>
+        <pubDate>Fri, 31 Dec 2021 18:37:48 +0200</pubDate>
+        <link>http://technews2.pp.ua/conductors-joined-in-crystal/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/conductors-joined-in-crystal/</guid>
+        
+        <category>сверхпроводник</category>
+        
+        <category>полупроводник</category>
+        
+        
+        <category>electro</category>
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Дрон пролетит через динамические препятствия</title>
+        <description>Швейцарские инженеры создали алгоритм управления дроном, позволяющий летать через двигающиеся проемы.</description>
+        <pubDate>Fri, 31 Dec 2021 18:32:26 +0200</pubDate>
+        <link>http://technews2.pp.ua/drone-through-dynamic-gate/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/drone-through-dynamic-gate/</guid>
+        
+        <category>дрон</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Ученые MIT придумали лунную летающую тарелку</title>
+        <description>Инженеры MIT придумали концепцию лунной летающей тарелки, способной леветировать над поверхностью, используя для этого электростатическое отталкивание.</description>
+        <pubDate>Fri, 31 Dec 2021 18:27:02 +0200</pubDate>
+        <link>http://technews2.pp.ua/lunar-flying-plate/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/lunar-flying-plate/</guid>
+        
+        <category>Луна</category>
+        
+        <category>летательный аппарат</category>
+        
+        
+        <category>space</category>
+        
+      </item>
+    
+  </channel>
+</rss>
