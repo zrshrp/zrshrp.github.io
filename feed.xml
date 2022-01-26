@@ -6,9 +6,73 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Jan 2022 15:10:29 +0200</pubDate>
-    <lastBuildDate>Wed, 19 Jan 2022 15:10:29 +0200</lastBuildDate>
+    <pubDate>Wed, 26 Jan 2022 15:55:53 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 15:55:53 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>AirCar сертифицировали для полётов</title>
+        <description>Компания Klein Vision получила необходимые разрешения для полетов своего аэрокара-трансформера.</description>
+        <pubDate>Wed, 26 Jan 2022 14:49:08 +0200</pubDate>
+        <link>http://technews2.pp.ua/aircar-certified/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/aircar-certified/</guid>
+        
+        <category>летательный аппарат</category>
+        
+        <category>автомобиль</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Американцы создали автономную вагонную тележку</title>
+        <description>Компания Parallel Systems показала роботизированную железнодорожную тележку, предназначенную для облегчения процесса формировки составов.</description>
+        <pubDate>Wed, 26 Jan 2022 14:40:08 +0200</pubDate>
+        <link>http://technews2.pp.ua/robo-carriage-parallel-sys/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/robo-carriage-parallel-sys/</guid>
+        
+        <category>робот</category>
+        
+        <category>железная дорога</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Система SAID доставит подводный аппарат по назначению</title>
+        <description>Компании KDDI, Qysea и Prodrone разработали беспилотную систему, осуществляющую доставку подводного аппарата в нужное место на воде.</description>
+        <pubDate>Wed, 26 Jan 2022 14:31:33 +0200</pubDate>
+        <link>http://technews2.pp.ua/said-drone-system/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/said-drone-system/</guid>
+        
+        <category>дрон</category>
+        
+        <category>вода</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Робот-як поможет перенести грузы</title>
+        <description>Китайское издание Global Times сообщило о разработке бионического робота-носильщика, предназначенного для переноски грузов по пересечённой местности.</description>
+        <pubDate>Wed, 26 Jan 2022 14:24:50 +0200</pubDate>
+        <link>http://technews2.pp.ua/cn-yak-robot/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/cn-yak-robot/</guid>
+        
+        <category>робот</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
     
       <item>
         <title>Zero - одноместный тейлситтер от Zeva</title>
@@ -107,72 +171,6 @@
         
         
         <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Японцы собрали дисплей с переменным вкусом</title>
-        <description>Японский инженер собрал специальный дисплей, позволяющий почувствовать вкус отображаемых на нём блюд.</description>
-        <pubDate>Fri, 31 Dec 2021 18:42:57 +0200</pubDate>
-        <link>http://technews2.pp.ua/lickable-display/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/lickable-display/</guid>
-        
-        <category>дисплей</category>
-        
-        <category>вкус</category>
-        
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>Полупроводник соеденили со сверхпроводником в кристалле</title>
-        <description>Международная группа ученых смогла создать рабочее соединение полупроводника со сверхпроводником.</description>
-        <pubDate>Fri, 31 Dec 2021 18:37:48 +0200</pubDate>
-        <link>http://technews2.pp.ua/conductors-joined-in-crystal/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/conductors-joined-in-crystal/</guid>
-        
-        <category>сверхпроводник</category>
-        
-        <category>полупроводник</category>
-        
-        
-        <category>electro</category>
-        
-        <category>physics</category>
-        
-      </item>
-    
-      <item>
-        <title>Дрон пролетит через динамические препятствия</title>
-        <description>Швейцарские инженеры создали алгоритм управления дроном, позволяющий летать через двигающиеся проемы.</description>
-        <pubDate>Fri, 31 Dec 2021 18:32:26 +0200</pubDate>
-        <link>http://technews2.pp.ua/drone-through-dynamic-gate/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/drone-through-dynamic-gate/</guid>
-        
-        <category>дрон</category>
-        
-        <category>алгоритм</category>
-        
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Ученые MIT придумали лунную летающую тарелку</title>
-        <description>Инженеры MIT придумали концепцию лунной летающей тарелки, способной леветировать над поверхностью, используя для этого электростатическое отталкивание.</description>
-        <pubDate>Fri, 31 Dec 2021 18:27:02 +0200</pubDate>
-        <link>http://technews2.pp.ua/lunar-flying-plate/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/lunar-flying-plate/</guid>
-        
-        <category>Луна</category>
-        
-        <category>летательный аппарат</category>
-        
-        
-        <category>space</category>
         
       </item>
     
