@@ -6,9 +6,95 @@
 </description>
     <link>http://technews2.pp.ua/</link>
     <atom:link href="http://technews2.pp.ua/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jan 2022 15:55:53 +0200</pubDate>
-    <lastBuildDate>Wed, 26 Jan 2022 15:55:53 +0200</lastBuildDate>
+    <pubDate>Sat, 05 Feb 2022 00:18:29 +0200</pubDate>
+    <lastBuildDate>Sat, 05 Feb 2022 00:18:29 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Беспилотные грузовики доставят коммерческие грузы</title>
+        <description>Американская компания договорилась о перевозке коммерческих грузов на беспилотных грузовиках без водителей внутри.</description>
+        <pubDate>Fri, 04 Feb 2022 23:11:49 +0200</pubDate>
+        <link>http://technews2.pp.ua/tusimple-trucks/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/tusimple-trucks/</guid>
+        
+        <category>робот</category>
+        
+        <category>автомобиль</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Биоинженеры вырастят волосы человека на мышах</title>
+        <description>Стартап dNovo сообщил об успех по выращиванию человеческих волос для пересадки на лабораторных мышах.</description>
+        <pubDate>Fri, 04 Feb 2022 22:55:28 +0200</pubDate>
+        <link>http://technews2.pp.ua/dnovo-hair/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/dnovo-hair/</guid>
+        
+        <category>волосы</category>
+        
+        <category>пересадка</category>
+        
+        
+        <category>medical</category>
+        
+      </item>
+    
+      <item>
+        <title>Создан самый прочный клей на SEBS основе</title>
+        <description>Специалисты ORNL создали клейкий материал с превосходными адгезивными свойствами из обычного пластика.</description>
+        <pubDate>Fri, 04 Feb 2022 22:50:37 +0200</pubDate>
+        <link>http://technews2.pp.ua/ornl-sebs-mod/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/ornl-sebs-mod/</guid>
+        
+        <category>материал</category>
+        
+        <category>клей</category>
+        
+        
+        <category>physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Соосный дрон запустят из пушки</title>
+        <description>Инженеры из США разработали дрон, который можно запускать при помощи выстрела из пневматической пушки.</description>
+        <pubDate>Fri, 04 Feb 2022 22:45:37 +0200</pubDate>
+        <link>http://technews2.pp.ua/air-launched-a-and-m-dronez234537/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/air-launched-a-and-m-dronez234537/</guid>
+        
+        <category>дрон</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+      </item>
+    
+      <item>
+        <title>Робот STAR поможет сделать лапараскопию</title>
+        <description>Американские ученые разработали автономного робота, способного проводить лапараскопические вмешательства на живых пациентах.</description>
+        <pubDate>Fri, 04 Feb 2022 22:40:33 +0200</pubDate>
+        <link>http://technews2.pp.ua/hopkins-star/</link>
+        <guid isPermaLink="true">http://technews2.pp.ua/hopkins-star/</guid>
+        
+        <category>робот</category>
+        
+        <category>операция</category>
+        
+        <category>алгоритм</category>
+        
+        
+        <category>robotech</category>
+        
+        <category>medical</category>
+        
+      </item>
     
       <item>
         <title>AirCar сертифицировали для полётов</title>
@@ -87,90 +173,6 @@
         
         
         <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>UltraRAM сможет работать быстро долгое время</title>
-        <description>Британские инженеры сообщили об успехе в создании долговечной и быстрой компьютерной памяти.</description>
-        <pubDate>Tue, 18 Jan 2022 14:12:33 +0200</pubDate>
-        <link>http://technews2.pp.ua/ultraram-1000y/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/ultraram-1000y/</guid>
-        
-        <category>память</category>
-        
-        <category>компьютер</category>
-        
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
-        <title>Механическую руку научили работать пинцетом</title>
-        <description>Южнокорейские робототехники обучили автоматизированную механическую руку высокоточной работе с маленькими предметами.</description>
-        <pubDate>Tue, 18 Jan 2022 13:40:24 +0200</pubDate>
-        <link>http://technews2.pp.ua/ilda-objects-handling/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/ilda-objects-handling/</guid>
-        
-        <category>манипулятор</category>
-        
-        <category>алгоритм</category>
-        
-        
-        <category>robotech</category>
-        
-      </item>
-    
-      <item>
-        <title>Грибной белок заменит куриные яйца</title>
-        <description>Финские ученые генетически изменили геном гриба, заставив его производить овальбумин - важный компонент яичного белка.</description>
-        <pubDate>Tue, 18 Jan 2022 13:35:16 +0200</pubDate>
-        <link>http://technews2.pp.ua/fungi-eggs/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/fungi-eggs/</guid>
-        
-        <category>еда</category>
-        
-        <category>белок</category>
-        
-        <category>экология</category>
-        
-        <category>геном</category>
-        
-        
-        <category>energy</category>
-        
-      </item>
-    
-      <item>
-        <title>C наступающим Новым годом 2022!</title>
-        <description>TechNews2 поздравляет читателей с наступающим Новым годом!</description>
-        <pubDate>Fri, 31 Dec 2021 18:54:13 +0200</pubDate>
-        <link>http://technews2.pp.ua/new-year-2022/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/new-year-2022/</guid>
-        
-        <category>салют</category>
-        
-        <category>поздравления</category>
-        
-        
-        <category>fun</category>
-        
-      </item>
-    
-      <item>
-        <title>Робот-пылесос уберет снег вместо вас</title>
-        <description>Китайцы создали автономного гусеничного робота, предназначенного для уборки снега на парковках.</description>
-        <pubDate>Fri, 31 Dec 2021 18:47:16 +0200</pubDate>
-        <link>http://technews2.pp.ua/snowbot-s1/</link>
-        <guid isPermaLink="true">http://technews2.pp.ua/snowbot-s1/</guid>
-        
-        <category>робот</category>
-        
-        <category>снег</category>
-        
-        
-        <category>robotech</category>
         
       </item>
     
